@@ -7,6 +7,4 @@ I'm all about clean code and creating apps that people enjoy using. From coming 
 Check out my portfolio to see how I've made everyday tasks easier with my apps. I'm not just into coding; I'm passionate about making technology that feels good to use.
 
 ## CardTag App
-<img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/CardTag/1.jpeg" width="300" /> 
-<img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/CardTag/2.jpeg" width="300" /> 
-<img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/CardTag/3.jpeg" width="300" /> 
+<img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/CardTag/1.jpeg" width="350" /> <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/CardTag/2.jpeg" width="350" /> <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/CardTag/3.jpeg" width="350" /> 
