@@ -22,7 +22,7 @@ Check out my portfolio to see how I've made everyday tasks easier with my apps. 
 
 ## Holland Energie App
 <a href="https://play.google.com/store/apps/details?id=nl.epicwebsite.nhe">Check on Google Play Store</a><br><br>
-<img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/HollandEnergie/1.jpeg" width="400" /> <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/HollandEnergie/2.jpeg" width="400" /> <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/HollandEnergie/3.jpeg" width="400" /> 
+<img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/HollandEnergie/1.jpeg" width="400" /> <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/HollandEnergie/2.jpeg" width="400" /> <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/HollandEnergie/3.png" width="400" /> 
 
 ## Invoice Maker App
 <img src="https://github.com/talha-malik-05/MyPortfolio/blob/main/images/InvoiceMaker/1.jpeg" width="400" />
